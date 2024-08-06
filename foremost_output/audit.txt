@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Aug  6 21:48:37 2024
+Invocation: foremost -i 3.tar -o foremost_output 
+Output directory: /home/shubhamphpefy/ctf_solver/foremost_output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: 3.tar
+Start: Tue Aug  6 21:48:37 2024
+Length: 40 KB (40960 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000003.png 	      12 KB 	       1536 	  (1642 x 1095)
+Finish: Tue Aug  6 21:48:37 2024
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue Aug  6 21:48:37 2024
